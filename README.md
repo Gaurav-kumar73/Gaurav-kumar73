@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaurav-kumar73
-- 👀 I’m interested in coding skills
+- 👀 I’m interested in coding skills - HTML, CSS, JAVASCRIPT
 - 🌱 I’m currently learning nodejs and reactjs
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me www.linkedin.com/in/gaurav-kumar-33837b272
