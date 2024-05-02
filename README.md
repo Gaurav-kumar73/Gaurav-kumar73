@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav-kumar73
 - 👀 I’m interested in coding skills - HTML, CSS, JAVASCRIPT
-- 🌱 I’m currently learning nodejs and reactjs
+- 🌱 I’m currently learning and improving REACT-JS and NODE-JS
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me www.linkedin.com/in/gaurav-kumar-33837b272
 - ⚡ Fun fact: I can speak 3 languages- hindi, english, japanese
